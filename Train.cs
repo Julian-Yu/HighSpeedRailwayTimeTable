@@ -15,7 +15,7 @@ namespace HighSpeedRailwayTimeTable
         /// <summary>
         /// 列车车次
         /// </summary>
-        public string train_num = "";
+        public string train_num = "G000";
         /// <summary>
         /// 列车方向
         /// </summary>
